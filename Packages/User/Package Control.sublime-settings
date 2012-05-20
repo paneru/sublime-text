@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": 1337532512,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ASCII Decorator",
+		"BeautifyRuby",
+		"Clipboard History",
+		"CoffeeScript",
+		"ERB Insert and Toggle Commands",
+		"Gist",
+		"Git",
+		"Haml",
+		"HTML5",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"Rails Related Files",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"RspecBuild",
+		"Sass",
+		"Search Stack Overflow",
+		"Simple Rails Navigator",
+		"Terminal",
+		"Zurb Foundation Snippets"
+	]
+}
