@@ -2,27 +2,39 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 4,
+	"last_window_id": 17,
 	"settings":
 	{
-		"new_window_height": 706.0,
+		"new_window_height": 1287.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"comm",
+						"commentable_type"
+					],
+					[
+						"commen",
+						"commentable_id"
+					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 287.0,
+				"height": 67.0,
 				"selected_items":
 				[
 					[
-						"gist",
-						"Gist: Open Gist"
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"erb",
+						"Set Syntax: Ruby"
 					],
 					[
 						"inst",
@@ -31,13 +43,9 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 449.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -54,12 +62,39 @@
 			},
 			"file_history":
 			[
-				"/Users/deanperry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/deanperry/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings"
+				"/Users/deanperry/Documents/blogghq/app/controllers/admin/application_controller.rb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/config/routes.rb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/models/.gitkeep",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/apps/_show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/_stats.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/stats.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/apps/show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/models/stat.rb",
+				"/Users/deanperry/Documents/voupe_dashboard/Gemfile",
+				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
+				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
+				"/Users/deanperry/Documents/desktoply/config/environments/production.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/admin/resource_controller.rb",
+				"/Users/deanperry/Documents/desktoply/lib/api_constraints.rb",
+				"/Users/deanperry/Documents/desktoply/config/routes.rb",
+				"/Users/deanperry/Documents/desktoply/config/database.yml",
+				"/Users/deanperry/Documents/desktoply/app/views/comments/index.html.haml",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/users_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/sessions_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/homescreens_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/devices_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/desktops_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/base_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/base_controller.rb"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -93,7 +128,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 31.0
 			},
 			"layout":
 			{
@@ -143,10 +178,10 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 227.0,
+			"side_bar_width": 295.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1417.0
+		"new_window_width": 1592.0
 	},
 	"windows":
 	[
@@ -155,19 +190,115 @@
 			{
 				"selected_items":
 				[
+					[
+						"comm",
+						"commentable_type"
+					],
+					[
+						"commen",
+						"commentable_id"
+					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/models/app.rb",
+					"settings":
+					{
+						"buffer_size": 335,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/apps/show.html.haml",
+					"settings":
+					{
+						"buffer_size": 491,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/apps/_code.html.erb",
+					"settings":
+					{
+						"buffer_size": 1073,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 684,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/controllers/stats_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2147,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/stats/show_iframe.html.haml",
+					"settings":
+					{
+						"buffer_size": 928,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2364,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 130,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/layouts/application.html.haml",
+					"settings":
+					{
+						"buffer_size": 1454,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 67.0,
 				"selected_items":
 				[
+					[
+						"haml",
+						"Set Syntax: Ruby Haml"
+					],
+					[
+						"erb",
+						"Set Syntax: Ruby"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -184,10 +315,38 @@
 			},
 			"file_history":
 			[
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/config/routes.rb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/models/.gitkeep",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/apps/_show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/_stats.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/stats/stats.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/views/apps/show.js.erb",
+				"/Users/deanperry/Documents/voupe_dashboard/app/models/stat.rb",
+				"/Users/deanperry/Documents/voupe_dashboard/Gemfile",
+				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
+				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
+				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
+				"/Users/deanperry/Documents/desktoply/config/environments/production.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/admin/resource_controller.rb",
+				"/Users/deanperry/Documents/desktoply/lib/api_constraints.rb",
+				"/Users/deanperry/Documents/desktoply/config/routes.rb",
+				"/Users/deanperry/Documents/desktoply/config/database.yml",
+				"/Users/deanperry/Documents/desktoply/app/views/comments/index.html.haml",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/users_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/sessions_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/homescreens_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/devices_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/desktops_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/base_controller.rb",
+				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/base_controller.rb"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
@@ -218,14 +377,259 @@
 			"folders":
 			[
 				{
-					"path": "/Users/deanperry/Dropbox/sublimetext2/Packages/User"
+					"path": "/Users/deanperry/Documents/voupe_dashboard"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 8,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/models/app.rb",
+							"settings":
+							{
+								"buffer_size": 335,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										153,
+										153
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/apps/show.html.haml",
+							"settings":
+							{
+								"buffer_size": 491,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										87,
+										87
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/apps/_code.html.erb",
+							"settings":
+							{
+								"buffer_size": 1073,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/helpers/application_helper.rb",
+							"settings":
+							{
+								"buffer_size": 684,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										207,
+										207
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/controllers/stats_controller.rb",
+							"settings":
+							{
+								"buffer_size": 2147,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										686,
+										686
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/stats/show_iframe.html.haml",
+							"settings":
+							{
+								"buffer_size": 928,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/config/routes.rb",
+							"settings":
+							{
+								"buffer_size": 2364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/controllers/application_controller.rb",
+							"settings":
+							{
+								"buffer_size": 130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										125,
+										125
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/deanperry/Documents/voupe_dashboard/app/views/layouts/application.html.haml",
+							"settings":
+							{
+								"buffer_size": 1454,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										205,
+										205
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -235,7 +639,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 31.0
 			},
 			"layout":
 			{
@@ -260,7 +664,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "619 434 1321 502 0 0 2560 1418 ",
+			"position": "969 109 1592 1309 0 0 2560 1418 ",
 			"replace":
 			{
 				"height": 0.0
@@ -286,9 +690,9 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 295.0,
 			"status_bar_visible": true,
-			"window_id": 2,
+			"window_id": 15,
 			"workspace_name": ""
 		}
 	],

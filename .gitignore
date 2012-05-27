@@ -19,3 +19,4 @@ CVS
 
 # ignore settings because it includes session info
 Settings
+Backup/
