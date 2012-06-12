@@ -1,4 +1,8 @@
 {
 	"color_scheme": "Packages/Theme - Code School 2/Code School 2.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"tab_size": 2
 }
