@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 55,
+	"last_window_id": 90,
 	"settings":
 	{
-		"new_window_height": 1318.0,
+		"new_window_height": 1303.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -13,16 +13,76 @@
 				"selected_items":
 				[
 					[
-						"manuf",
-						"manufacturer"
+						"tw",
+						"tweet_id"
 					],
 					[
-						"manufa",
-						"machine_manufacturer"
+						"par",
+						"params"
+					],
+					[
+						"up",
+						"update"
+					],
+					[
+						"t",
+						"twitter"
+					],
+					[
+						"twitt",
+						"twitter_account"
+					],
+					[
+						"twitter",
+						"twitter_account"
+					],
+					[
+						"curr",
+						"current_twitter_account"
+					],
+					[
+						"Ti",
+						"TwitterAccount"
+					],
+					[
+						"twt",
+						"twitter_account"
+					],
+					[
+						"Twitter",
+						"TwitterAccount"
+					],
+					[
+						"quot",
+						"quote_price"
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"sub",
+						"sub_doc_pages"
+					],
+					[
+						"doc",
+						"documentation_pages"
+					],
+					[
+						"user",
+						"user_activity"
+					],
+					[
+						"tr",
+						"trackable_type"
+					],
+					[
+						"disc",
+						"disclaimer_type"
 					],
 					[
 						"machine",
-						"machine_manufacturer"
+						"machine_type"
 					],
 					[
 						"homescreen",
@@ -77,12 +137,20 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 67.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
 						"haml",
 						"Set Syntax: Ruby Haml"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
 						"enable pack",
@@ -99,10 +167,6 @@
 					[
 						"packa",
 						"Package Control: Install Package"
-					],
-					[
-						"sass",
-						"Stackoverflow: Search Selection"
 					],
 					[
 						"jaa",
@@ -142,134 +206,134 @@
 			},
 			"file_history":
 			[
-				"/Users/deanperry/Dropbox/BRM/InvoiceTemplateCoded/HTML/index.html",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print1.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/extras.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/bootstrap.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
+				"/Users/deanperry/Documents/backup-tools/Gemfile",
+				"/Users/deanperry/Documents/backup-tools/models/brm_intranet_mysql_backup.rb",
+				"/Users/deanperry/Documents/backup-tools/models/deanweb_mysql_backup.rb",
+				"/Users/deanperry/Documents/backup-tools/config.rb",
+				"/Users/deanperry/Documents/backup-tools/models/desktoply_mysql_backup.rb",
+				"/Users/deanperry/Documents/backup-tools/brm_intranet/config/schedule.rb",
+				"/Users/deanperry/Documents/backup-tools/log/backup.log",
+				"/Users/deanperry/Documents/bustatweet/app/views/tweets/mentions.html.haml",
+				"/Users/deanperry/Documents/bustatweet/config/routes.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/home/index.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/twitter_accounts_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/tweets_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/twitter_users/mentions.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/twitter_users_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/app/models/twitter_account.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/twitter_users/show.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/home_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/twitter_accounts/show.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/assets/stylesheets/bootstrap-responsive.css",
+				"/Users/deanperry/Documents/bustatweet/app/views/twitter_accounts/index.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/views/tweets/show.html.haml",
+				"/Users/deanperry/Documents/bustatweet/test/functional/tweets_controller_test.rb",
+				"/Users/deanperry/Documents/bustatweet/config/initializers/twitter.rb",
+				"/Users/deanperry/Documents/bustatweet/app/models/user.rb",
+				"/Users/deanperry/Documents/bustatweet/db/migrate/20120313234107_create_twitter_accounts.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/devise/registrations/new.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/views/devise/sessions/new.html.haml",
+				"/Users/deanperry/Documents/bustatweet/Gemfile",
+				"/Users/deanperry/Documents/bustatweet/config/initializers/omniauth.rb",
+				"/Users/deanperry/Documents/bustatweet/app/models/authentication.rb",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/authentications_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/db/migrate/20120314122631_add_twitter_tokens_to_users.rb",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/tries_controller.rb",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.layout.php",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.product_layout.php",
+				"/Users/deanperry/Desktop/balloon-baboon/footer.php",
+				"/Users/deanperry/Desktop/balloon-baboon/functions.php",
+				"/Users/deanperry/Desktop/balloon-baboon/header.php",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.reviews.php",
+				"/Users/deanperry/Desktop/balloon-baboon/style.css",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.cart.php",
+				"/Users/deanperry/Documents/brm-intranet/app/pdfs/repair_pdf.rb",
 				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/repair_sweeper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120426162949_create_items.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120608210257_create_refunds.rb",
-				"/Users/deanperry/Documents/brm-intranet/coverage/.resultset.json",
-				"/Users/deanperry/Documents/brm-intranet/Gemfile",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/invoices_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/item.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/pdfs/invoice_pdf.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/customers/_modal_inv.html.haml",
 				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/invoices_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/customers_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/log/sunspot-solr-development.log",
-				"/Users/deanperry/Documents/brm-intranet/.gitignore",
-				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoice_mailer/invoice_email.text.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/delayed_job_config.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/deploy.rb",
-				"/Users/deanperry/Documents/brm-intranet/solr/conf/solrconfig.xml",
-				"/Users/deanperry/Documents/brm-intranet/config/environments/production.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/invoices_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/environments/development.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/new.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/intranet.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/mailers/invoice_mailer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/invoices.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/admin.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/highslide-config.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/jquery-settings.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/application.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/brm.js",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120621224149_add_quote_to_repairs.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/_mixins.css.sass",
+				"/Users/deanperry/Documents/deanio/config/initializers/voupe.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/_mixins.css.scss",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/reset.css.sass",
+				"/Users/deanperry/Documents/deanio/app/helpers/application_helper.rb",
+				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Documents/deanio/config/routes.rb",
+				"/Users/deanperry/Documents/deanio/Gemfile",
+				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.erb",
+				"/Users/deanperry/Documents/deanio/config/application.rb",
+				"/Users/deanperry/Documents/deanio/config/environment.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/1140.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/2011.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css",
+				"/Users/deanperry/Documents/deanio/app/views/layouts/_footer.html.haml",
+				"/Users/deanperry/Documents/deanio/db/migrate/20120127233248_create_works.rb",
+				"/Users/deanperry/Documents/deanio/config/compass.rb",
+				"/Users/deanperry/Documents/deanio/config/initializers/inflections.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/docs_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/documentation.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/views/docs/index.html.haml",
 				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120606213559_create_user_activities.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user_activity.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/recent_activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/observers/invoice_observer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/users/activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/users_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/invoice_sweeper.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
+				"/Users/deanperry/Documents/brm-intranet/.gitmodules",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/docs/index/index.md",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/intranet.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/doc_pages_helper.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/_form.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/_doc_page.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/doc_pages_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/doc_page.rb",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120619172947_add_ancestry_to_doc_pages.rb",
+				"/Users/deanperry/Documents/brm-intranet/Gemfile",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/application_helper.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/factories/repairs.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/controllers/repairs_controller_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/customers_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/repairs_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/_form.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/show.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/edit.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/repairs_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/extras.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/invoices_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/popbox.css",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/repairs_helper.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
+				"/Users/deanperry/Dropbox/1.html",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120308225114_create_repairs.rb",
+				"/Users/deanperry/Documents/brm-intranet/.rake_tasks~",
+				"/Users/deanperry/Documents/brm-intranet/config/settings.yml",
+				"/Users/deanperry/Documents/brm-intranet/app/mailers/invoice_mailer.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/environments/production.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/custom_repair_fields_controller.rb",
 				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193548_add_archive_invoice_fields_to_invoices.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/subscription.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/user.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_header.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_form.html.haml",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/profile_setup.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/new.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.hmal",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/schema.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/pages/about.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/devices.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_homescreens.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/users.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/register_signin_settings.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/.gitkeep",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_desktops.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/_desktop.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_homescreen.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/users/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_show_ipad.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/base.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/desktoply.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_users.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/explore_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_desktops.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_homescreens.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_users.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/users/_user.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/css3buttons.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/uploaders/desktop_uploader.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_nav.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120205235025_add_avatar_provider_to_users.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/reports_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/monthly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/yearly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/invoices_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193557_add_extra_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120504225707_create_users.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193657_add_customer_name_to_invoices.rb",
-				"/Users/deanperry/Desktop/activity.txt",
-				"/Users/deanperry/.dotfiles/README.markdown",
-				"/Users/deanperry/.dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/_dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/session_store.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/sessions/new.html.haml"
+				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/sweepers/invoice_sweeper.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/sweepers/repair_sweeper.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/invoices_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/home_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/admin_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/models/repair_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/controllers/invoices_controller_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/models/item.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/payment.rb",
+				"/Users/deanperry/Documents/brm-intranet/.gitignore",
+				"/Users/deanperry/Documents/brm-intranet/lib/network_restrictions.rb",
+				"/Users/deanperry/Documents/brm-intranet/README.md",
+				"/Users/deanperry/Documents/qykin/app/controllers/urls_controller.rb",
+				"/Users/deanperry/Documents/qykin/db/migrate/20120617191117_rename_clicks_to_old_clicks_in_urls.rb",
+				"/Users/deanperry/Documents/qykin/config/locales/devise.en.yml"
 			],
 			"find":
 			{
@@ -280,6 +344,7 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"<open folders>",
 					"/Users/deanperry/Documents/brm-intranet/app"
 				]
 			},
@@ -288,6 +353,23 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"WP_CONTENT_URL",
+					"cf.dean",
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
+					"http://bb1.cdn.deanperry.co",
+					"http://bb.cdn.deanperry.co",
+					"timthumb",
+					"rimthumb",
+					"dtbaker_thumb",
+					"dtbaker",
+					"newa",
+					"confirm",
+					"DFDFDF",
+					":confirm => 'Are you sure?'",
+					"helpdesk",
+					"disclai",
 					"twitter",
 					"total",
 					".user",
@@ -300,6 +382,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloonbaboon",
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
+					":data => { :confirm => 'Are you sure?' }",
 					"monthly_graph",
 					"monthly_graph_total_takings"
 				],
@@ -350,6 +437,10 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"sass",
+						"app/assets/stylesheets/deanio.css.sass"
+					]
 				],
 				"width": 0.0
 			},
@@ -365,10 +456,10 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 301.0,
+			"side_bar_width": 279.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 2080.0
+		"new_window_width": 1782.0
 	},
 	"windows":
 	[
@@ -377,6 +468,50 @@
 			{
 				"selected_items":
 				[
+					[
+						"refund",
+						"refund_reason"
+					],
+					[
+						"invo",
+						"invoice_id"
+					],
+					[
+						"update",
+						"update_attributes"
+					],
+					[
+						"quot",
+						"quote_price"
+					],
+					[
+						"ca",
+						"category"
+					],
+					[
+						"sub",
+						"sub_doc_pages"
+					],
+					[
+						"doc",
+						"documentation_pages"
+					],
+					[
+						"user",
+						"user_activity"
+					],
+					[
+						"tr",
+						"trackable_type"
+					],
+					[
+						"disc",
+						"disclaimer_type"
+					],
+					[
+						"machine",
+						"machine_type"
+					],
 					[
 						"homescreen",
 						"homescreen_id"
@@ -430,34 +565,34 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
+					"file": "/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
 					"settings":
 					{
-						"buffer_size": 4483,
+						"buffer_size": 10505,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
+					"file": "/Users/deanperry/Documents/brm-intranet/app/models/refund.rb",
 					"settings":
 					{
-						"buffer_size": 491,
+						"buffer_size": 455,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
+					"file": "/Users/deanperry/Documents/brm-intranet/app/controllers/refunds_controller.rb",
 					"settings":
 					{
-						"buffer_size": 2493,
+						"buffer_size": 599,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/Users/deanperry/Documents/desktoply/config/routes.rb",
+					"file": "/Users/deanperry/Documents/brm-intranet/db/migrate/20120608210257_create_refunds.rb",
 					"settings":
 					{
-						"buffer_size": 3442,
+						"buffer_size": 249,
 						"line_ending": "Unix"
 					}
 				}
@@ -465,12 +600,20 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 67.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
 						"haml",
 						"Set Syntax: Ruby Haml"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
 						"enable pack",
@@ -487,10 +630,6 @@
 					[
 						"packa",
 						"Package Control: Install Package"
-					],
-					[
-						"sass",
-						"Stackoverflow: Search Selection"
 					],
 					[
 						"jaa",
@@ -530,134 +669,134 @@
 			},
 			"file_history":
 			[
-				"/Users/deanperry/Documents/desktoply/app/models/subscription.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/user.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_header.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_form.html.haml",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/profile_setup.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/new.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.hmal",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/schema.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/pages/about.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/devices.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_homescreens.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/users.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/register_signin_settings.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/.gitkeep",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_desktops.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/_desktop.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_homescreen.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/users/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_show_ipad.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/base.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/desktoply.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_users.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/explore_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_desktops.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_homescreens.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_users.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/users/_user.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/css3buttons.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/uploaders/desktop_uploader.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_nav.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120205235025_add_avatar_provider_to_users.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/reports_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/monthly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/yearly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/invoices_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193548_add_archive_invoice_fields_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193557_add_extra_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120504225707_create_users.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193657_add_customer_name_to_invoices.rb",
-				"/Users/deanperry/Desktop/activity.txt",
-				"/Users/deanperry/.dotfiles/README.markdown",
-				"/Users/deanperry/.dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/_dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/session_store.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
-				"/Users/deanperry/Documents/brm-intranet/Gemfile",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/presenters/homescreen_presenter.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_footer.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/complete.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/support_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/repairs.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/customers_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/repair_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/repairs_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/customers_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/unpaid.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/machine_manufacturers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/machine_manufacturers/_modal.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/controllers/admin/machine_manufacturers_controller_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/machine_manufacturer_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/machine_manufacturers.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/machine_manufacturer.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/payment_methods.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/machine_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/disclaimers/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/disclaimers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2010.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2011.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/invoices/base.css",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2012.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/payments_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/deploy.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/invoices_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2007.html.haml",
 				"/Users/deanperry/Documents/brm-intranet/app/controllers/reports_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/_monthly_chart.html.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2011.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2010.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/deploy/codebase.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/version.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/deploy.rb",
-				"/Users/deanperry/Documents/deanio/Gemfile",
-				"/Users/deanperry/Documents/deanio/app/mailers/notifications_mailer.rb",
-				"/Users/deanperry/Documents/deanio/config/routes.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/refunds_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/README.md",
+				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/_invoice.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/_repair.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/item.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/extras.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/config/initializers/airbrake.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/initializers/delayed_job_config.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/notes_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/notes/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/notes/_form.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/notes/new.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/intranet.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/views/reports/_title_bar.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/application_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/mailers/report_mailer.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/reports/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/reports/this_month.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/reports/monthly.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/Gemfile",
+				"/Users/deanperry/Documents/brm-intranet/config/schedule.rb",
+				"/Users/deanperry/Documents/brm-intranet/Backup/models/brm_intranet_mysql_backup.rb",
+				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
+				"/Users/deanperry/Documents/bustatweet/app/views/devise/registrations/new.html.haml",
+				"/Users/deanperry/Documents/bustatweet/app/views/devise/sessions/new.html.haml",
+				"/Users/deanperry/Documents/bustatweet/Gemfile",
+				"/Users/deanperry/Documents/bustatweet/config/initializers/twitter.rb",
+				"/Users/deanperry/Documents/bustatweet/config/initializers/omniauth.rb",
+				"/Users/deanperry/Documents/bustatweet/app/models/user.rb",
+				"/Users/deanperry/Documents/bustatweet/app/models/authentication.rb",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/authentications_controller.rb",
+				"/Users/deanperry/Documents/bustatweet/db/migrate/20120314122631_add_twitter_tokens_to_users.rb",
+				"/Users/deanperry/Documents/bustatweet/app/controllers/tries_controller.rb",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.layout.php",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.product_layout.php",
+				"/Users/deanperry/Desktop/balloon-baboon/footer.php",
+				"/Users/deanperry/Desktop/balloon-baboon/functions.php",
+				"/Users/deanperry/Desktop/balloon-baboon/header.php",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.reviews.php",
+				"/Users/deanperry/Desktop/balloon-baboon/style.css",
+				"/Users/deanperry/Desktop/balloon-baboon/shop.cart.php",
+				"/Users/deanperry/Documents/brm-intranet/app/pdfs/repair_pdf.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/pdfs/invoice_pdf.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/customers/_modal_inv.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120621224149_add_quote_to_repairs.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/_mixins.css.sass",
+				"/Users/deanperry/Documents/deanio/config/initializers/voupe.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/_mixins.css.scss",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/reset.css.sass",
+				"/Users/deanperry/Documents/deanio/app/helpers/application_helper.rb",
 				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/deanio/config/initializers/devise.rb",
-				"/Users/deanperry/Documents/deanio/config/database.yml"
+				"/Users/deanperry/Documents/deanio/config/routes.rb",
+				"/Users/deanperry/Documents/deanio/Gemfile",
+				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.erb",
+				"/Users/deanperry/Documents/deanio/config/application.rb",
+				"/Users/deanperry/Documents/deanio/config/environment.rb",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/1140.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/2011.css.sass",
+				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css",
+				"/Users/deanperry/Documents/deanio/app/views/layouts/_footer.html.haml",
+				"/Users/deanperry/Documents/deanio/db/migrate/20120127233248_create_works.rb",
+				"/Users/deanperry/Documents/deanio/config/compass.rb",
+				"/Users/deanperry/Documents/deanio/config/initializers/inflections.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/docs_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/documentation.css.sass",
+				"/Users/deanperry/Documents/brm-intranet/app/views/docs/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/.gitmodules",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Documents/brm-intranet/app/views/docs/index/index.md",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/doc_pages_helper.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/index.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/_form.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/_doc_page.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/doc_pages_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/doc_page.rb",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120619172947_add_ancestry_to_doc_pages.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/application_helper.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/factories/repairs.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/controllers/repairs_controller_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/customers_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/repairs_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/_form.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/show.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/edit.html.haml",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/repairs_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/popbox.css",
+				"/Users/deanperry/Documents/brm-intranet/app/helpers/repairs_helper.rb",
+				"/Users/deanperry/Dropbox/1.html",
+				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120308225114_create_repairs.rb",
+				"/Users/deanperry/Documents/brm-intranet/.rake_tasks~",
+				"/Users/deanperry/Documents/brm-intranet/config/settings.yml",
+				"/Users/deanperry/Documents/brm-intranet/app/mailers/invoice_mailer.rb",
+				"/Users/deanperry/Documents/brm-intranet/config/environments/production.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/custom_repair_fields_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/sweepers/invoice_sweeper.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/sweepers/repair_sweeper.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/invoices_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/controllers/home_controller.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/requests/admin_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/models/repair_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/spec/controllers/invoices_controller_spec.rb",
+				"/Users/deanperry/Documents/brm-intranet/app/models/payment.rb",
+				"/Users/deanperry/Documents/brm-intranet/.gitignore"
 			],
 			"find":
 			{
@@ -668,6 +807,7 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"<open folders>",
 					"/Users/deanperry/Documents/brm-intranet/app"
 				]
 			},
@@ -676,6 +816,23 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"WP_CONTENT_URL",
+					"cf.dean",
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
+					"http://bb1.cdn.deanperry.co",
+					"http://bb.cdn.deanperry.co",
+					"timthumb",
+					"rimthumb",
+					"dtbaker_thumb",
+					"dtbaker",
+					"newa",
+					"confirm",
+					"DFDFDF",
+					":confirm => 'Are you sure?'",
+					"helpdesk",
+					"disclai",
 					"twitter",
 					"total",
 					".user",
@@ -688,6 +845,11 @@
 				"regex": false,
 				"replace_history":
 				[
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloonbaboon",
+					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
+					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
+					":data => { :confirm => 'Are you sure?' }",
 					"monthly_graph",
 					"monthly_graph_total_takings"
 				],
@@ -700,29 +862,29 @@
 			"folders":
 			[
 				{
-					"path": "/Users/deanperry/Documents/desktoply"
+					"path": "/Users/deanperry/Documents/brm-intranet"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
+							"file": "/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
 							"settings":
 							{
-								"buffer_size": 4483,
+								"buffer_size": 10505,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4267,
-										4267
+										2219,
+										2219
 									]
 								],
 								"settings":
@@ -731,25 +893,25 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 328.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
+							"file": "/Users/deanperry/Documents/brm-intranet/app/models/refund.rb",
 							"settings":
 							{
-								"buffer_size": 491,
+								"buffer_size": 455,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										305,
-										305
+										450,
+										450
 									]
 								],
 								"settings":
@@ -764,18 +926,18 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
+							"file": "/Users/deanperry/Documents/brm-intranet/app/controllers/refunds_controller.rb",
 							"settings":
 							{
-								"buffer_size": 2493,
+								"buffer_size": 599,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										51,
-										51
+										265,
+										265
 									]
 								],
 								"settings":
@@ -792,466 +954,23 @@
 						},
 						{
 							"buffer": 3,
-							"file": "/Users/deanperry/Documents/desktoply/config/routes.rb",
+							"file": "/Users/deanperry/Documents/brm-intranet/db/migrate/20120608210257_create_refunds.rb",
 							"settings":
 							{
-								"buffer_size": 3442,
+								"buffer_size": 249,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										466,
-										466
+										150,
+										150
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 178.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "875 153 1685 1265 0 0 2560 1418 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 301.0,
-			"status_bar_visible": true,
-			"window_id": 37,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"homescreen",
-						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
-					],
-					[
-						"homescree",
-						"homescreens"
-					],
-					[
-						"tot",
-						"total_without_vat"
-					],
-					[
-						"Addr",
-						"address3"
-					],
-					[
-						"Add",
-						"address2"
-					],
-					[
-						"addre",
-						"address1"
-					],
-					[
-						"repo",
-						"reported_fault"
-					],
-					[
-						"machine_",
-						"machine_name_model"
-					],
-					[
-						"stat",
-						"stats"
-					],
-					[
-						"comm",
-						"commentable_type"
-					],
-					[
-						"commen",
-						"commentable_id"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/deanperry/Documents/desktoply/config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 3650,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/deanperry/Documents/desktoply/app/views/homescreens/_new_form.html.haml",
-					"settings":
-					{
-						"buffer_size": 2511,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 67.0,
-				"selected_items":
-				[
-					[
-						"haml",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"enable pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"pack",
-						"Package Control: Disable Package"
-					],
-					[
-						"package",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"sass",
-						"Stackoverflow: Search Selection"
-					],
-					[
-						"jaa",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"coffee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"erb",
-						"Set Syntax: Ruby"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/desktoply/Gemfile",
-				"/Users/deanperry/Documents/desktoply/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/subscription.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/user.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_header.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_form.html.haml",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/profile_setup.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/new.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.hmal",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/schema.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/pages/about.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/devices.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_homescreens.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/users.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/register_signin_settings.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/models/.gitkeep",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_desktops.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/_desktop.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_homescreen.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/users/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_show_ipad.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/base.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/desktoply.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_users.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/explore_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_desktops.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_homescreens.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_users.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/users/_user.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/css3buttons.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/uploaders/desktop_uploader.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_nav.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120205235025_add_avatar_provider_to_users.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/reports_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/monthly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/yearly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/invoices_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193548_add_archive_invoice_fields_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193557_add_extra_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120504225707_create_users.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193657_add_customer_name_to_invoices.rb",
-				"/Users/deanperry/Desktop/activity.txt",
-				"/Users/deanperry/.dotfiles/README.markdown",
-				"/Users/deanperry/.dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/_dotfiles/pow/aliases.zsh",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/session_store.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
-				"/Users/deanperry/Documents/brm-intranet/Gemfile",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/presenters/homescreen_presenter.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_footer.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/complete.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/support_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/repairs.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/customers_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/repair_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/repairs_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/customers_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/unpaid.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/machine_manufacturers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/machine_manufacturers/_modal.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/controllers/admin/machine_manufacturers_controller_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/machine_manufacturer_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/machine_manufacturers.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/machine_manufacturer.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/payment_methods.rb",
-				"/Users/deanperry/Documents/brm-intranet/spec/models/machine_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/disclaimers/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/disclaimers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2010.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2011.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/spec/factories/invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/invoices/base.css",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/reports_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/_monthly_chart.html.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2011.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/2010.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/monthly_params_charts",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/deploy/codebase.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/version.rb",
-				"/Users/deanperry/Documents/voupe_tools/lib/voupe_tools/deploy.rb",
-				"/Users/deanperry/Documents/deanio/Gemfile",
-				"/Users/deanperry/Documents/deanio/app/mailers/notifications_mailer.rb"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/deanperry/Documents/brm-intranet/app"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"twitter",
-					"total",
-					".user",
-					"monthly_params_graph",
-					"monthly_params_graph_total_takings"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"monthly_graph",
-					"monthly_graph_total_takings"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/deanperry/Documents/desktoply"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/deanperry/Documents/desktoply/config/routes.rb",
-							"settings":
-							{
-								"buffer_size": 3650,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3317,
-										3317
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby/Ruby.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/deanperry/Documents/desktoply/app/views/homescreens/_new_form.html.haml",
-							"settings":
-							{
-								"buffer_size": 2511,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										270,
-										93
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Haml/Syntaxes/Ruby Haml.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1293,7 +1012,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "875 155 1685 1263 0 0 2560 1418 ",
+			"position": "177 93 2121 1325 0 0 2560 1418 ",
 			"replace":
 			{
 				"height": 0.0
@@ -1302,395 +1021,12 @@
 			"select_file":
 			{
 				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 301.0,
-			"status_bar_visible": true,
-			"window_id": 45,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"data",
-						"data-original-title"
-					],
-					[
-						"manuf",
-						"manufacturer"
-					],
-					[
-						"manufa",
-						"machine_manufacturer"
-					],
-					[
-						"machine",
-						"machine_manufacturer"
-					],
-					[
-						"homescreen",
-						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
-					],
-					[
-						"homescree",
-						"homescreens"
-					],
-					[
-						"tot",
-						"total_without_vat"
-					],
-					[
-						"Addr",
-						"address3"
-					],
-					[
-						"Add",
-						"address2"
-					],
-					[
-						"addre",
-						"address1"
-					],
-					[
-						"repo",
-						"reported_fault"
-					],
-					[
-						"machine_",
-						"machine_name_model"
-					],
-					[
-						"stat",
-						"stats"
-					],
-					[
-						"comm",
-						"commentable_type"
-					],
-					[
-						"commen",
-						"commentable_id"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
 				"selected_items":
 				[
 					[
 						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"haml",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"enable pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"jaa",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"coffee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"erb",
-						"Set Syntax: Ruby"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
+						"app/assets/stylesheets/deanio.css.sass"
 					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/extras.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/intranet.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/invoices_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/Gemfile",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoice_mailer/invoice_email.text.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoice_mailer/invoice_email.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/environments/development.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/environments/production.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/bootstrap1.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/bootstrap.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/invoices.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/payments_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/invoice.css",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print1.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/repair_sweeper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120426162949_create_items.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120608210257_create_refunds.rb",
-				"/Users/deanperry/Documents/brm-intranet/coverage/.resultset.json",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/invoices_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/item.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/invoices_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/customers_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/log/sunspot-solr-development.log",
-				"/Users/deanperry/Documents/brm-intranet/.gitignore",
-				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/delayed_job_config.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/deploy.rb",
-				"/Users/deanperry/Documents/brm-intranet/solr/conf/solrconfig.xml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/new.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/mailers/invoice_mailer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/admin.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/highslide-config.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/jquery-settings.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/application.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/brm.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120606213559_create_user_activities.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user_activity.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/recent_activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/observers/invoice_observer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/users/activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/users_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/invoice_sweeper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193548_add_archive_invoice_fields_to_invoices.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/subscription.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/user.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_header.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_form.html.haml",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/profile_setup.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/new.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.hmal",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/schema.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/pages/about.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/devices.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_homescreens.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/users.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/register_signin_settings.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/.gitkeep",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_desktops.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/_desktop.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_homescreen.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/users/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_show_ipad.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/base.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/desktoply.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_users.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/explore_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_desktops.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_homescreens.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_users.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/users/_user.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/css3buttons.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/uploaders/desktop_uploader.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_nav.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/upgrade/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120205235025_add_avatar_provider_to_users.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/reports_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/monthly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/yearly.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/invoices_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193557_add_extra_to_invoices.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120504225707_create_users.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193657_add_customer_name_to_invoices.rb",
-				"/Users/deanperry/Desktop/activity.txt",
-				"/Users/deanperry/.dotfiles/README.markdown"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/deanperry/Documents/brm-intranet/app"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"tooltip",
-					"popover",
-					"twitter",
-					"total",
-					".user",
-					"monthly_params_graph",
-					"monthly_params_graph_total_takings"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"monthly_graph",
-					"monthly_graph_total_takings"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/deanperry/Documents/desktoply"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "329 -216 1752 1185 0 0 2560 1418 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
 				],
 				"width": 0.0
 			},
@@ -1706,403 +1042,9 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 301.0,
+			"side_bar_width": 279.0,
 			"status_bar_visible": true,
-			"window_id": 53,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"thanks",
-						"thanks_message"
-					],
-					[
-						"data",
-						"data-original-title"
-					],
-					[
-						"manuf",
-						"manufacturer"
-					],
-					[
-						"manufa",
-						"machine_manufacturer"
-					],
-					[
-						"machine",
-						"machine_manufacturer"
-					],
-					[
-						"homescreen",
-						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
-					],
-					[
-						"homescree",
-						"homescreens"
-					],
-					[
-						"tot",
-						"total_without_vat"
-					],
-					[
-						"Addr",
-						"address3"
-					],
-					[
-						"Add",
-						"address2"
-					],
-					[
-						"addre",
-						"address1"
-					],
-					[
-						"repo",
-						"reported_fault"
-					],
-					[
-						"machine_",
-						"machine_name_model"
-					],
-					[
-						"stat",
-						"stats"
-					],
-					[
-						"comm",
-						"commentable_type"
-					],
-					[
-						"commen",
-						"commentable_id"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"haml",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"enable pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"jaa",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"coffee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"erb",
-						"Set Syntax: Ruby"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/deanperry/Documents/brm-intranet/config/environments/development.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/invoice.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/pdfs/invoice_pdf.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/invoices_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/item.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/payments_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/extras.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/images/pdf.gif",
-				"/Users/deanperry/Documents/brm-intranet/app/models/repair.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120308225114_create_repairs.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120309180251_add_tower_diags_to_repairs.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120309180244_add_laptop_diags_to_repairs.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2012.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/db/seeds.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/routes.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120504225707_create_users.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2011.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2010.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2008.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/reports/rep_2009.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/locales/en.yml",
-				"/Users/deanperry/Documents/brm-intranet/Gemfile",
-				"/Users/deanperry/Documents/brm-intranet/app/views/repairs/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/doc_pages/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/intranet.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoice_mailer/invoice_email.text.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoice_mailer/invoice_email.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/config/environments/production.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_page_stats.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/admin_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/bootstrap1.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/bootstrap.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/invoices.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/invoice.css",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print1.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/repair_sweeper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120426162949_create_items.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120608210257_create_refunds.rb",
-				"/Users/deanperry/Documents/brm-intranet/coverage/.resultset.json",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/search_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/search/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/spec/requests/invoices_spec.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/customers/show.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/invoices/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/invoices_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/datatables/customers_datatable.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/_sidebar.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/customer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/customers_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/log/sunspot-solr-development.log",
-				"/Users/deanperry/Documents/brm-intranet/.gitignore",
-				"/Users/deanperry/Documents/brm-intranet/app/models/comment.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/initializers/delayed_job_config.rb",
-				"/Users/deanperry/Documents/brm-intranet/config/deploy.rb",
-				"/Users/deanperry/Documents/brm-intranet/solr/conf/solrconfig.xml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/new.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/payments/_form.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/mailers/invoice_mailer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/admin.js.coffee",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/highslide-config.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/jquery-settings.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/application.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/javascripts/brm.js",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120606213559_create_user_activities.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user_activity.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/index.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/models/user.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/admin/recent_activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/observers/invoice_observer.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/admin/users/activity.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/admin/users_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/sweepers/invoice_sweeper.rb",
-				"/Users/deanperry/Documents/brm-intranet/db/migrate/20120602193548_add_archive_invoice_fields_to_invoices.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/subscription.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/user.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/layouts/_header.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_form.html.haml",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/desktop.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/homescreen.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/comment.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/profile_setup.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/new.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/homescreens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/db/migrate/20120521205458_create_comments.rb",
-				"/Users/deanperry/Documents/desktoply/app/views/comments/_comments.html.hmal",
-				"/Users/deanperry/Documents/desktoply/app/views/registrations/edit.html.haml",
-				"/Users/deanperry/Documents/desktoply/db/schema.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/pages/about.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/comments_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/devices.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_homescreens.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/users.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/register_signin_settings.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/models/.gitkeep",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/index.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_desktops.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/_desktop.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_homescreen.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/users/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/views/homescreens/_show_ipad.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/base.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/desktops/show.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/desktoply.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/all_users.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/controllers/explore_controller.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_desktops.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_homescreens.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/assets/javascripts/pagination_users.js.coffee",
-				"/Users/deanperry/Documents/desktoply/app/views/users/_user.html.haml",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/css3buttons.css.sass",
-				"/Users/deanperry/Documents/desktoply/app/views/explore/index.html.haml"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"<open files>",
-					"/Users/deanperry/Documents/brm-intranet/app"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"&gt;",
-					"tooltip",
-					"popover",
-					"twitter",
-					"total",
-					".user",
-					"monthly_params_graph",
-					"monthly_params_graph_total_takings"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					">",
-					"monthly_graph",
-					"monthly_graph_total_takings"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/deanperry/Documents/voupe_dashboard"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "393 93 1773 1185 0 0 2560 1418 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 301.0,
-			"status_bar_visible": true,
-			"window_id": 55,
+			"window_id": 82,
 			"workspace_name": ""
 		}
 	],

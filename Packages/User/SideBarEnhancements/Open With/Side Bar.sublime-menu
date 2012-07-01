@@ -1,0 +1,49 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			{
+				"caption": "Mou",
+				"id": "side-bar-files-open-with-mou",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Mou.app"
+								}
+			},
+
+			{
+				"caption": "Google Chrome",
+				"id": "side-bar-files-open-with-google-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Google Chrome.app"
+								}
+			},
+
+			//application 1
+			{
+				"caption": "Photoshop",
+				"id": "side-bar-files-open-with-photoshop",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Adobe Photoshop CS5.app", // OSX
+									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
+								}
+			},
+
+			
+
+			//separator
+			{"caption":"-"},
+
+			{"caption":"-"}
+		]
+	}
+]
