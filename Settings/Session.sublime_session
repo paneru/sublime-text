@@ -1,6 +1,107 @@
 {
 	"folder_history":
 	[
+		"/Users/deanperry/Projects/voupe_contact",
+		"/Users/deanperry/Projects/brm_computers",
+		"/Users/deanperry/Projects/deanio",
+		"/Users/deanperry/Projects/blogr",
+		"/Users/deanperry/Projects/desktoply",
+		"/Users/deanperry/OpenSource/ror_ecommerce",
+		"/Users/deanperry/Projects/Sukora",
+		"/Users/deanperry/Projects/voupe-contact-gem",
+		"/Users/deanperry/Projects/voupe_postmark",
+		"/Users/deanperry/Desktop/atech-billy-1.0.12",
+		"/Users/deanperry/Projects/brm-intranet",
+		"/Users/deanperry/Clients/truckgleam",
+		"/Users/deanperry/Projects/clientapp",
+		"/Users/deanperry/Projects/gonzo",
+		"/Users/deanperry/Projects/voupe-contact",
+		"/Users/deanperry/Projects/tasks",
+		"/Users/deanperry/OpenSource/simpwhois",
+		"/Users/deanperry/Projects/sniply",
+		"/Users/deanperry/Projects/hurl",
+		"/Users/deanperry/Downloads/www.ukbackup.com",
+		"/Users/deanperry/Downloads/brmcomputers.co.uk",
+		"/Users/deanperry/Projects/brm-site1",
+		"/Users/deanperry/Projects/brm-site",
+		"/Users/deanperry/Backup",
+		"/Users/deanperry/Projects/desktoply/app/assets/javascripts",
+		"/Users/deanperry/Downloads/tipped-3.1.3-demo",
+		"/Users/deanperry/Downloads/madebyawesome.com",
+		"/Users/deanperry/Desktop/voupe",
+		"/Users/deanperry/Projects/voupe-dashboard",
+		"/Users/deanperry/Projects/voupe",
+		"/Users/deanperry/Desktop/spine.infinite",
+		"/Users/deanperry/Desktop/323-backbone-on-rails-part-1/raffler-after",
+		"/Users/deanperry/Projects/qykin",
+		"/Users/deanperry/OpenSource/alpha_pag",
+		"/Users/deanperry/OpenSource/saas_deny_subdomains",
+		"/Users/deanperry/OpenSource/paginate_alphabetically",
+		"/Users/deanperry/Projects/clientapp_website",
+		"/Users/deanperry/Projects/desktoply-v2",
+		"/Users/deanperry/Projects/desktoply-v1",
+		"/Users/deanperry/Downloads/sites-enabled",
+		"/Users/deanperry/Projects/west_agile",
+		"/Users/deanperry/Downloads/themes.virae.org/plain",
+		"/private/tmp/calls",
+		"/Users/deanperry/Desktop/rubycas-server",
+		"/Users/deanperry/Desktop/tasks",
+		"/Users/deanperry/Projects/psdesign",
+		"/Users/deanperry/Projects/passport",
+		"/Users/deanperry/.dotfiles",
+		"/Users/deanperry/v",
+		"/Users/deanperry/Desktop/cheddar-ios",
+		"/Users/deanperry/Projects/strano",
+		"/Users/deanperry/OpenSource/gonzo",
+		"/Users/deanperry/voupe_chef",
+		"/Users/deanperry/Desktop/telecoms",
+		"/Users/deanperry/Projects/samsoff.es",
+		"/Users/deanperry/Projects/blogghq",
+		"/Users/deanperry/Projects/sukora1",
+		"/Users/deanperry/Projects/sukora",
+		"/Volumes/Sites/BloggHQ/ssl",
+		"/Users/deanperry/.chef",
+		"/Users/deanperry/Projects/errbit",
+		"/Users/deanperry/Projects",
+		"/Volumes/Data/Dean/cod4 players/profiles",
+		"/Users/deanperry/Projects/RailsTuts",
+		"/Users/deanperry/Desktop/gist-fa0a633b",
+		"/Users/deanperry/OpenSource/qykin",
+		"/Users/deanperry/Desktop/sukora_comingsoon",
+		"/Users/deanperry/OpenSource/sniply",
+		"/Users/deanperry/OpenSource/annotate_models",
+		"/Users/deanperry/Desktop/app",
+		"/Applications/Noti.app",
+		"/Users/deanperry/Projects/exceptions",
+		"/Users/deanperry/Downloads/voupe (2012-09-02 15-40)",
+		"/Users/deanperry/Desktop/tickets",
+		"/Users/deanperry/Desktop/cb_gl_import",
+		"/Users/deanperry/Documents/backup-scripts",
+		"/Users/deanperry/Projects/bruce",
+		"/Users/deanperry/OpenSource/gitlabhq",
+		"/Users/deanperry/Desktop/VoupeWebsite",
+		"/Users/deanperry/OpenSource/rails_apps_composer",
+		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@passport/gems/atech-billy-1.0.12",
+		"/Users/deanperry/Projects/passport_gem",
+		"/Users/deanperry/Clients/sukora",
+		"/private/tmp/sukora",
+		"/Users/deanperry/sukora",
+		"/Users/deanperry/OpenSource/knife-solo",
+		"/Users/deanperry/Documents/scripts",
+		"/Users/deanperry/Clients/balloon-baboon",
+		"/Users/deanperry/Downloads/nginx",
+		"/Users/deanperry/Projects/simpwhois",
+		"/Users/deanperry/Documents/puppet-master",
+		"/private/tmp/suggestions",
+		"/Users/deanperry/OpenSource/random_token",
+		"/Users/deanperry/OpenSource/saas-deny-subdomains",
+		"/Users/deanperry/Projects/deanio/_charlietest",
+		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@deanio/gems/atech-charlie-0.2.4",
+		"/Users/deanperry/Projects/bruce_engine",
+		"/Users/deanperry/Desktop/bruce_gem",
+		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@desktoply/gems/atech-charlie-0.2.0",
+		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@desktoply/gems/atech-billy-1.0.12",
+		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@desktoply/gems/billy-0.0.1",
 		"/Users/deanperry/Documents/brm-intranet",
 		"/Users/deanperry/Documents/desktoply",
 		"/Users/deanperry/Documents/blogghq",
@@ -10,7 +111,6 @@
 		"/Users/deanperry/Documents/codeplane",
 		"/Users/deanperry/Documents/deanio",
 		"/Users/deanperry/Documents/dotfilesme",
-		"/Users/deanperry/.dotfiles",
 		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@deanio/gems/dotfiles-1.0.6",
 		"/Users/deanperry/Documents/mydotfiles",
 		"/Users/deanperry/Documents/mydotfiles-gem",
@@ -28,14 +128,12 @@
 		"/Users/deanperry/Documents/qykin",
 		"/Users/deanperry/.rvm/gems/ruby-1.9.3-p194@brm-intranet/gems/phony-1.7.6",
 		"/Users/deanperry/Documents/deanperry.github.com",
-		"/Users/deanperry/Documents/backup-tools",
-		"/Users/deanperry/Documents/onelineserver",
-		"/Users/deanperry/Downloads/foundation.zurb.com"
+		"/Users/deanperry/Documents/backup-tools"
 	],
-	"last_window_id": 166,
+	"last_window_id": 595,
 	"settings":
 	{
-		"new_window_height": 1308.0,
+		"new_window_height": 848.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -43,24 +141,272 @@
 				"selected_items":
 				[
 					[
+						"gig",
+						"gig_venue"
+					],
+					[
+						"vo",
+						"voupe_contact"
+					],
+					[
+						"upgr",
+						"upgrade"
+					],
+					[
+						"rec",
+						"redirect_to"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"caro",
+						"carousel-control"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"explore",
+						"explore_page"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"img",
+						"img_pc"
+					],
+					[
+						"back",
+						"background-position"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"wd",
+						"width"
+					],
+					[
+						"text-s",
+						"text-transform"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"bu",
+						"buy_amazon"
+					],
+					[
+						"ve",
+						"venue_web"
+					],
+					[
+						"font",
+						"font-family"
+					],
+					[
+						"app",
+						"app_list"
+					],
+					[
+						"track",
+						"track_file_url"
+					],
+					[
+						"dr",
+						"duration"
+					],
+					[
+						"text-",
+						"text-transform"
+					],
+					[
+						"ipad",
+						"ipad_3_white"
+					],
+					[
+						"ipad_2",
+						"ipad_2_white"
+					],
+					[
+						"la",
+						"last_name"
+					],
+					[
+						"aco",
+						"account"
+					],
+					[
+						"Ar",
+						"ArgumentError"
+					],
+					[
+						"activi",
+						"activities"
+					],
+					[
+						"remove",
+						"remove_file"
+					],
+					[
+						"comme",
+						"commenter"
+					],
+					[
+						"no",
+						"notiapp"
+					],
+					[
+						"red",
+						"redirect_to"
+					],
+					[
+						"req",
+						"request_token"
+					],
+					[
+						"dis",
+						"discussion"
+					],
+					[
+						"diss",
+						"discussions"
+					],
+					[
+						"Dis",
+						"Discussions"
+					],
+					[
+						"di",
+						"discussion_id"
+					],
+					[
+						"pass",
+						"password"
+					],
+					[
+						"compan",
+						"company_name"
+					],
+					[
+						"ac",
+						"account_id"
+					],
+					[
+						"invoice",
+						"invoice_item"
+					],
+					[
+						"in",
+						"invoice"
+					],
+					[
+						"invo",
+						"invoice_view"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"con",
+						"contract"
+					],
+					[
+						"contr",
+						"contract_id"
+					],
+					[
+						"qu",
+						"quote"
+					],
+					[
+						"sub",
+						"subdomains"
+					],
+					[
+						"password",
+						"password_reset_token"
+					],
+					[
+						"client",
+						"client_id"
+					],
+					[
+						"find",
+						"find_by_uuid"
+					],
+					[
+						"comm",
+						"Comment"
+					],
+					[
+						"cla",
+						"cla	class << self .. end"
+					],
+					[
+						"avatar",
+						"avatar_upload"
+					],
+					[
+						"decode",
+						"decode64"
+					],
+					[
+						"tmp",
+						"tempfile"
+					],
+					[
+						"file_",
+						"file_content"
+					],
+					[
+						"hoe",
+						"homescreens"
+					],
+					[
+						"file",
+						"file_content"
+					],
+					[
+						"content",
+						"content_type"
+					],
+					[
+						"id",
+						"identifier"
+					],
+					[
+						"lo",
+						"logger"
+					],
+					[
 						"user",
 						"username"
 					],
 					[
-						"text-",
-						"text-decoration"
-					],
-					[
 						"Portf",
 						"PortfolioItem"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin",
-						"margin-left"
 					],
 					[
 						"tex",
@@ -95,10 +441,6 @@
 						"reveal"
 					],
 					[
-						"text",
-						"text_field"
-					],
-					[
 						"re",
 						"refund_reason"
 					],
@@ -119,10 +461,6 @@
 						"git_version"
 					],
 					[
-						"invo",
-						"invoice_id"
-					],
-					[
 						"update",
 						"update_attributes"
 					],
@@ -133,10 +471,6 @@
 					[
 						"ca",
 						"category"
-					],
-					[
-						"sub",
-						"sub_doc_pages"
 					],
 					[
 						"doc",
@@ -157,10 +491,6 @@
 					[
 						"homescreen",
 						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
 					],
 					[
 						"homescree",
@@ -195,10 +525,6 @@
 						"stats"
 					],
 					[
-						"comm",
-						"commentable_type"
-					],
-					[
 						"commen",
 						"commentable_id"
 					]
@@ -211,28 +537,32 @@
 				"selected_items":
 				[
 					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
 						"sass",
 						"Set Syntax: Sass"
 					],
 					[
-						"pack",
-						"Package Control: Install Package"
+						"html",
+						"Set Syntax: HTML"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
+						"sas",
+						"Set Syntax: Sass"
 					],
 					[
 						"haml",
 						"Set Syntax: Ruby Haml"
 					],
 					[
-						"html",
-						"Set Syntax: HTML"
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
 					],
 					[
 						"enable pack",
@@ -280,134 +610,134 @@
 			},
 			"file_history":
 			[
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/repairs/horizon.css.sass",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/invoice_print.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/views/layouts/repair_print.html.haml",
-				"/Users/deanperry/Documents/brm-intranet/app/assets/stylesheets/invoices/horizon.css.sass",
-				"/Users/deanperry/Documents/clientapp/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/clientapp/config/routes.rb",
-				"/Users/deanperry/Documents/clientapp/Gemfile",
-				"/Users/deanperry/Documents/clientapp/config/initializers/devise.rb",
-				"/Users/deanperry/Documents/clientapp/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/splash.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/index.html.haml",
-				"/Users/deanperry/Documents/clientapp/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/clientapp/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/tokens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/lib/api_constraints.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/client.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane.rb",
-				"/Users/deanperry/Documents/codeplane/codeplane.gemspec",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli/project.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/request.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/version.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/files_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/dot_file.rb",
-				"/Users/deanperry/Documents/dotfilesme/Gemfile",
-				"/Users/deanperry/Documents/dotfilesme/config/application.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/routes.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/ssl_enforcement.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/initializers/dotfilesme.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/public/index.html",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/1",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/edasd.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/configuration.rb",
-				"/Users/deanperry/Documents/mydotfiles/app/views/files/_user_info.html.haml",
-				"/Users/deanperry/Documents/mydotfiles/Capfile",
-				"/Users/deanperry/Documents/mydotfiles/Gemfile",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/home/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/models/portfolio_item.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_chrome_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css.sass",
-				"/Users/deanperry/Documents/deanio/Gemfile",
-				"/Users/deanperry/Documents/deanio/config/initializers/airbrake.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/toast.css",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/_analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/initializers/fog.rb",
-				"/Users/deanperry/Documents/deanio/app/views/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/routes.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/_post.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/_tip.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/tip.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/_sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/message.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_items_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/contact/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/contact_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/environments/production.rb",
-				"/Users/deanperry/Documents/deanio/app/views/pages/contact.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/deploy.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/deanio/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/fontface.css.sass",
-				"/Users/deanperry/Documents/deanio/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/deanio/app/models/post.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.ham,l",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/application.rb",
-				"/Users/deanperry/Documents/deanio/config/database.yml",
-				"/Users/deanperry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/deanperry/Documents/deanio/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/qykin/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/qykin/Gemfile",
-				"/Users/deanperry/Documents/qykin/app/controllers/urls_controller.rb",
-				"/Users/deanperry/Documents/qykin/app/views/urls/index.html.haml",
-				"/Users/deanperry/Documents/qykin/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/qykin/config/settings/development.yml",
-				"/Users/deanperry/Documents/brm-intranet/README.md"
+				"/Users/deanperry/Projects/deanio/Gemfile",
+				"/Users/deanperry/Projects/deanio/app/controllers/posts_controller.rb",
+				"/Users/deanperry/Projects/deanio/app/models/post.rb",
+				"/Users/deanperry/Projects/deanio/config/routes.rb",
+				"/Users/deanperry/Projects/deanio/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Projects/deanio/config/initializers/blogit.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/admin/charts_controller.rb",
+				"/Users/deanperry/Projects/Sukora/config/routes.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/layouts/admin.html.haml",
+				"/Users/deanperry/Projects/Sukora/db/seeds.rb",
+				"/Users/deanperry/Projects/Sukora/config/deploy.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/admin/gig_venues/show.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/helpers/gig_venues_helper.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/shared/_artist_sidebar.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/shared/_flash_message.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/assets/stylesheets/flash_messages.css.sass",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/images_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Projects/Sukora/config/initializers/carrierwave.rb",
+				"/Users/deanperry/Projects/Sukora/app/uploaders/track_uploader.rb",
+				"/Users/deanperry/Projects/Sukora/app/uploaders/image_uploader.rb",
+				"/Users/deanperry/Projects/Sukora/app/uploaders/artist_image_uploader.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/gigs/new.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/gigs/edit.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/tracks/_form.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/artists/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/db/migrate/20121001223401_create_tracks.rb",
+				"/Users/deanperry/Projects/Sukora/db/migrate/20121001224300_create_images.rb",
+				"/Users/deanperry/Projects/Sukora/db/migrate/20121001224709_create_videos.rb",
+				"/Users/deanperry/Projects/Sukora/app/models/artist.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/artist_setup/complete.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/gigs_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/tracks_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/models/image.rb",
+				"/Users/deanperry/Projects/Sukora/app/models/track.rb",
+				"/Users/deanperry/Projects/Sukora/app/models/video.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/videos_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/layouts/_navigation.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/gigs/show.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/gigs/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/tracks/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/gigs/_form.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/images/_form.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/tracks/new.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/images/new.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/images/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/shared/_artist_nav.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/models/gig.rb",
+				"/Users/deanperry/Projects/Sukora/db/migrate/20121104143635_remove_venue_info_from_gigs.rb",
+				"/Users/deanperry/Projects/Sukora/db/migrate/20121104142335_add_venue_id_to_gigs.rb",
+				"/Users/deanperry/Projects/Sukora/app/models/gig_venue.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/base_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artists/artists_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/application_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/admin/base_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/gigs/new.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/gigs/edit.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/gigs/_form.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/controllers/gigs_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/gigs/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artist/gigs_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artist/images_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artist/tracks_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artist/videos_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/controllers/artist/artists_controller.rb",
+				"/Users/deanperry/Projects/Sukora/app/views/admin/gig_venues/edit.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/admin/gig_venues/index.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/controllers/admin/gig_venues_controller.rb",
+				"/Users/deanperry/Desktop/venue_test.txt",
+				"/Users/deanperry/Projects/Sukora/app/views/admin/gig_venues/new.html.haml",
+				"/Users/deanperry/Projects/Sukora/app/views/admin/gig_venues/_form.html.haml",
+				"/Users/deanperry/Projects/Sukora/Gemfile",
+				"/Users/deanperry/Projects/Sukora/app/views/artists/index.html.haml",
+				"/Users/deanperry/Projects/brm_computers/config/environments/development.rb",
+				"/Users/deanperry/Projects/brm_computers/config/environments/production.rb",
+				"/Users/deanperry/Projects/brm_computers/Gemfile",
+				"/Users/deanperry/Projects/brm_computers/app/views/pages/contact.html.haml",
+				"/Users/deanperry/Projects/brm_computers/config/initializers/voupe_contact.rb",
+				"/Users/deanperry/Projects/brm_computers/config/routes.rb",
+				"/Users/deanperry/Projects/brm_computers/README.md",
+				"/Users/deanperry/Projects/brm_computers/app/assets/javascripts/application.js",
+				"/Users/deanperry/Projects/brm_computers/app/controllers/pages_controller.rb",
+				"/Users/deanperry/Projects/brm_computers/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Projects/brm_computers/app/views/pages/about.html.haml",
+				"/Users/deanperry/Projects/brm_computers/app/views/pages/_home_slider.html.haml",
+				"/Users/deanperry/Projects/brm_computers/config/application.rb",
+				"/Users/deanperry/Projects/brm_computers/config/database.yml",
+				"/Users/deanperry/Projects/brm_computers/app/views/pages/home.html.haml",
+				"/Users/deanperry/Projects/brm_computers/app/assets/stylesheets/home_slider.css.sass",
+				"/Users/deanperry/Projects/brm_computers/app/assets/stylesheets/brm.css.sass",
+				"/Users/deanperry/Projects/brm_computers/config/123.key",
+				"/Users/deanperry/Projects/brm_computers/public/robots.txt",
+				"/Users/deanperry/Projects/brm_computers/app/views/pages/login.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/models/comment.rb",
+				"/Users/deanperry/Projects/desktoply/app/views/developers/responses/desktops/show.json",
+				"/Users/deanperry/Projects/desktoply/app/views/developers/responses/homescreens/show.json",
+				"/Users/deanperry/Projects/desktoply/app/views/developers/responses/users/show.json",
+				"/Users/deanperry/Projects/desktoply/app/views/developers/responses/comments/show.json",
+				"/Users/deanperry/Projects/desktoply/app/views/api/v1/comments/show.json.rabl",
+				"/Users/deanperry/Projects/desktoply/app/views/api/v1/users/show.json.rabl",
+				"/Users/deanperry/Projects/desktoply/app/views/api/v1/desktops/show.json.rabl",
+				"/Users/deanperry/Projects/desktoply/app/views/api/v1/homescreens/show.json.rabl",
+				"/Users/deanperry/Projects/desktoply/app/models/user.rb",
+				"/Users/deanperry/Projects/desktoply/app/views/comments/_comment.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/application.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/desktops/show.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/homescreens/show.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/desktop_homescreen.css.sass",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/fancybox/jquery.fancybox.css",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/fancybox/jquery.fancybox-buttons.css",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/application.css",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/main.css.sass",
+				"/Users/deanperry/Projects/desktoply/app/views/desktops/_desktop.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/homescreens/_homescreen.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/users.css.sass",
+				"/Users/deanperry/Projects/desktoply/app/views/upgrade/index.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/models/payment.rb",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/register-signin-settings.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/assets/stylesheets/errors.css.sass",
+				"/Users/deanperry/Projects/desktoply/app/controllers/payments_controller.rb",
+				"/Users/deanperry/Projects/desktoply/app/controllers/registrations_controller.rb",
+				"/Users/deanperry/Projects/desktoply/app/controllers/homescreens_controller.rb",
+				"/Users/deanperry/Projects/desktoply/app/controllers/desktops_controller.rb",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/_header.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/_hellobar.html.erb",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/_head.html.haml",
+				"/Users/deanperry/Projects/desktoply/app/views/layouts/hellobar.html.erb"
 			],
 			"find":
 			{
@@ -418,6 +748,17 @@
 				"height": 0.0,
 				"where_history":
 				[
+					"",
+					"<open files>",
+					"",
+					"<open files>",
+					"",
+					"<open files>",
+					"",
+					"<open files>",
+					"",
+					"<open files>",
+					"",
 					"<open files>",
 					"<open folders>",
 					"/Users/deanperry/Documents/brm-intranet/app"
@@ -425,9 +766,108 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"pro_user",
+					"&amp;",
+					"data-prime-mobile",
+					"data-prime-mobile-landscape-height",
+					"twitter",
+					"hover",
+					"navbar-inver",
+					"nav-",
+					"twitter",
+					"data-prime-tablet-height",
+					"new",
+					"add",
+					"docu",
+					"cross",
+					"pager",
+					"nav-pager",
+					"docume",
+					"x",
+					"cross",
+					"clock",
+					"visible-desktop",
+					"glyp",
+					"ajax-loader",
+					"tablet",
+					"wp-content",
+					"margin-left-20",
+					"hover",
+					".active",
+					"app_pages",
+					"descript",
+					"artists_list",
+					"user",
+					".user",
+					"user",
+					"voupe_avatar",
+					"posit",
+					"-5",
+					"codebase",
+					"monthly_graph",
+					" =",
+					"image_tag",
+					"post",
+					"$service_pass",
+					"@current_account",
+					"github.com",
+					"github",
+					"Price",
+					"Add Item",
+					"bundle install",
+					"bundle in",
+					"rvm",
+					"factory_girl",
+					"erb",
+					"machinist",
+					"skeleton",
+					"foundation",
+					"foundation]",
+					"sendgrid",
+					"home_app",
+					"sqlite",
+					"database",
+					"bootstrap",
+					"copy_from",
+					":preserve",
+					"font-fam",
+					"posts",
+					"TitilliumText22LRgRegular",
+					"admin_h3_index_header",
+					"HADEAN_CONFIG",
+					"project_",
+					"fancybo",
+					"edit_client",
+					"edit_client_invoice",
+					"client",
+					"Client",
+					"clients",
+					"&gt;",
+					"&lt;",
+					"contract",
+					"gems",
+					"@gems",
+					"gonzo",
+					"thor",
+					"get",
+					"thor",
+					"after_bundler",
+					"'thor'",
+					"thor",
+					"    [[\"Qty\", \"Description\", \"Amount\", \"VAT\", \"Net Subtotal\"]] +\n    @invoice.invoice_items.map do |item|\n      [item.quantity, item.description, price(item.no_vat), price(item.vat_figure), price(item.price)]\n    end",
+					"account_not_found",
+					"@account",
+					"5px",
+					"top-right-radius",
+					"op-right-radius",
+					": 5px;",
+					".comments",
+					"commen",
+					"comment_form",
+					"comment",
 					"spac",
 					"\"",
 					"payment-det",
@@ -462,6 +902,22 @@
 				"regex": false,
 				"replace_history":
 				[
+					"&",
+					"http://ukbackup.com/wp-content",
+					"monthly_graph_total_revenue_archive",
+					"tRePr5m59RES",
+					"current_account",
+					"item_price",
+					"projects_project_",
+					"edit_clients_client",
+					"edit_clients_client_invoice",
+					"project",
+					"Project",
+					"projects",
+					">",
+					"<",
+					"discussion",
+					"@current_account",
 					"'",
 					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloonbaboon",
 					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
@@ -508,6 +964,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"replace":
 			{
 				"height": 0.0
@@ -537,1137 +997,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 279.0,
+			"side_bar_width": 231.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1365.0
+		"new_window_width": 1070.0
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"user",
-						"username"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"Portf",
-						"PortfolioItem"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"button",
-						"button-aqua"
-					],
-					[
-						"create",
-						"create_invoice"
-					],
-					[
-						"customer",
-						"customer_id"
-					],
-					[
-						"bt",
-						"button	<button>"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"reve",
-						"reveal"
-					],
-					[
-						"text",
-						"text_field"
-					],
-					[
-						"re",
-						"refund_reason"
-					],
-					[
-						"refund",
-						"refund_amount"
-					],
-					[
-						"repair",
-						"repair_id"
-					],
-					[
-						"refund_",
-						"refund_amount"
-					],
-					[
-						"git",
-						"git_version"
-					],
-					[
-						"invo",
-						"invoice_id"
-					],
-					[
-						"update",
-						"update_attributes"
-					],
-					[
-						"quot",
-						"quote_price"
-					],
-					[
-						"ca",
-						"category"
-					],
-					[
-						"sub",
-						"sub_doc_pages"
-					],
-					[
-						"doc",
-						"documentation_pages"
-					],
-					[
-						"tr",
-						"trackable_type"
-					],
-					[
-						"disc",
-						"disclaimer_type"
-					],
-					[
-						"machine",
-						"machine_type"
-					],
-					[
-						"homescreen",
-						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
-					],
-					[
-						"homescree",
-						"homescreens"
-					],
-					[
-						"tot",
-						"total_without_vat"
-					],
-					[
-						"Addr",
-						"address3"
-					],
-					[
-						"Add",
-						"address2"
-					],
-					[
-						"addre",
-						"address1"
-					],
-					[
-						"repo",
-						"reported_fault"
-					],
-					[
-						"machine_",
-						"machine_name_model"
-					],
-					[
-						"stat",
-						"stats"
-					],
-					[
-						"comm",
-						"commentable_type"
-					],
-					[
-						"commen",
-						"commentable_id"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"haml",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"enable pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"pack",
-						"Package Control: Disable Package"
-					],
-					[
-						"package",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"jaa",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"coffee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"erb",
-						"Set Syntax: Ruby"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/deanperry/Documents/clientapp/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/clientapp/config/routes.rb",
-				"/Users/deanperry/Documents/clientapp/Gemfile",
-				"/Users/deanperry/Documents/clientapp/config/initializers/devise.rb",
-				"/Users/deanperry/Documents/clientapp/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/splash.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/index.html.haml",
-				"/Users/deanperry/Documents/clientapp/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/clientapp/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/tokens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/lib/api_constraints.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/client.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane.rb",
-				"/Users/deanperry/Documents/codeplane/codeplane.gemspec",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli/project.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/request.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/version.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/files_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/dot_file.rb",
-				"/Users/deanperry/Documents/dotfilesme/Gemfile",
-				"/Users/deanperry/Documents/dotfilesme/config/application.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/routes.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/ssl_enforcement.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/initializers/dotfilesme.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/public/index.html",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/1",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/edasd.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/configuration.rb",
-				"/Users/deanperry/Documents/mydotfiles/app/views/files/_user_info.html.haml",
-				"/Users/deanperry/Documents/mydotfiles/Capfile",
-				"/Users/deanperry/Documents/mydotfiles/Gemfile",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/home/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/models/portfolio_item.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_chrome_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css.sass",
-				"/Users/deanperry/Documents/deanio/Gemfile",
-				"/Users/deanperry/Documents/deanio/config/initializers/airbrake.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/toast.css",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/_analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/initializers/fog.rb",
-				"/Users/deanperry/Documents/deanio/app/views/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/routes.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/_post.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/_tip.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/tip.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/_sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/message.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_items_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/contact/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/contact_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/environments/production.rb",
-				"/Users/deanperry/Documents/deanio/app/views/pages/contact.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/deploy.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/deanio/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/fontface.css.sass",
-				"/Users/deanperry/Documents/deanio/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/deanio/app/models/post.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.ham,l",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/application.rb",
-				"/Users/deanperry/Documents/deanio/config/database.yml",
-				"/Users/deanperry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/deanperry/Documents/deanio/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/qykin/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/qykin/Gemfile",
-				"/Users/deanperry/Documents/qykin/app/controllers/urls_controller.rb",
-				"/Users/deanperry/Documents/qykin/app/views/urls/index.html.haml",
-				"/Users/deanperry/Documents/qykin/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/qykin/config/settings/development.yml",
-				"/Users/deanperry/Documents/brm-intranet/README.md",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/create.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/destroy.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/items_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/_item.html.haml"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"<open files>",
-					"<open folders>",
-					"/Users/deanperry/Documents/brm-intranet/app"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"spac",
-					"\"",
-					"payment-det",
-					"client",
-					"repair-other",
-					"WP_CONTENT_URL",
-					"cf.dean",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
-					"http://bb1.cdn.deanperry.co",
-					"http://bb.cdn.deanperry.co",
-					"timthumb",
-					"rimthumb",
-					"dtbaker_thumb",
-					"dtbaker",
-					"newa",
-					"confirm",
-					"DFDFDF",
-					":confirm => 'Are you sure?'",
-					"helpdesk",
-					"disclai",
-					"twitter",
-					"total",
-					".user",
-					"monthly_params_graph",
-					"monthly_params_graph_total_takings"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"'",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloonbaboon",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
-					":data => { :confirm => 'Are you sure?' }",
-					"monthly_graph",
-					"monthly_graph_total_takings"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Users/deanperry/Documents/blogghq"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "323 88 1365 1330 0 0 2560 1418 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"sass",
-						"app/assets/stylesheets/deanio.css.sass"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 279.0,
-			"status_bar_visible": true,
-			"window_id": 160,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"user",
-						"username"
-					],
-					[
-						"text-",
-						"text-decoration"
-					],
-					[
-						"Portf",
-						"PortfolioItem"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin",
-						"margin-left"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"button",
-						"button-aqua"
-					],
-					[
-						"create",
-						"create_invoice"
-					],
-					[
-						"customer",
-						"customer_id"
-					],
-					[
-						"bt",
-						"button	<button>"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"reve",
-						"reveal"
-					],
-					[
-						"text",
-						"text_field"
-					],
-					[
-						"re",
-						"refund_reason"
-					],
-					[
-						"refund",
-						"refund_amount"
-					],
-					[
-						"repair",
-						"repair_id"
-					],
-					[
-						"refund_",
-						"refund_amount"
-					],
-					[
-						"git",
-						"git_version"
-					],
-					[
-						"invo",
-						"invoice_id"
-					],
-					[
-						"update",
-						"update_attributes"
-					],
-					[
-						"quot",
-						"quote_price"
-					],
-					[
-						"ca",
-						"category"
-					],
-					[
-						"sub",
-						"sub_doc_pages"
-					],
-					[
-						"doc",
-						"documentation_pages"
-					],
-					[
-						"tr",
-						"trackable_type"
-					],
-					[
-						"disc",
-						"disclaimer_type"
-					],
-					[
-						"machine",
-						"machine_type"
-					],
-					[
-						"homescreen",
-						"homescreen_id"
-					],
-					[
-						"ipad",
-						"ipad_2_white"
-					],
-					[
-						"homescree",
-						"homescreens"
-					],
-					[
-						"tot",
-						"total_without_vat"
-					],
-					[
-						"Addr",
-						"address3"
-					],
-					[
-						"Add",
-						"address2"
-					],
-					[
-						"addre",
-						"address1"
-					],
-					[
-						"repo",
-						"reported_fault"
-					],
-					[
-						"machine_",
-						"machine_name_model"
-					],
-					[
-						"stat",
-						"stats"
-					],
-					[
-						"comm",
-						"commentable_type"
-					],
-					[
-						"commen",
-						"commentable_id"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/deanperry/Downloads/Desktoply-Devices-Current.plist",
-					"settings":
-					{
-						"buffer_size": 762,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Users/deanperry/Downloads/Desktoply-Devices-New.plist",
-					"settings":
-					{
-						"buffer_size": 863,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby"
-					],
-					[
-						"sass",
-						"Set Syntax: Sass"
-					],
-					[
-						"haml",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"html",
-						"Set Syntax: HTML"
-					],
-					[
-						"enable pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"jaa",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"coffee",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"erb",
-						"Set Syntax: Ruby"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 0.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/deanperry/Documents/clientapp/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/clientapp/config/routes.rb",
-				"/Users/deanperry/Documents/clientapp/Gemfile",
-				"/Users/deanperry/Documents/clientapp/config/initializers/devise.rb",
-				"/Users/deanperry/Documents/clientapp/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/splash.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/clientapp/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/clientapp/app/views/pages/index.html.haml",
-				"/Users/deanperry/Documents/clientapp/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/clientapp/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/tokens_controller.rb",
-				"/Users/deanperry/Documents/desktoply/config/routes.rb",
-				"/Users/deanperry/Documents/desktoply/app/controllers/api/v1/desktops_controller.rb",
-				"/Users/deanperry/Documents/desktoply/lib/api_constraints.rb",
-				"/Users/deanperry/Documents/desktoply/app/assets/stylesheets/main.css.sass",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/client.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane.rb",
-				"/Users/deanperry/Documents/codeplane/codeplane.gemspec",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/cli/project.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/request.rb",
-				"/Users/deanperry/Documents/codeplane/lib/codeplane/version.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/files_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/dot_file.rb",
-				"/Users/deanperry/Documents/dotfilesme/Gemfile",
-				"/Users/deanperry/Documents/dotfilesme/config/application.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/routes.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/ssl_enforcement.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/config/initializers/dotfilesme.rb",
-				"/Users/deanperry/Documents/dotfilesme/lib/controller_modules/authentication.rb",
-				"/Users/deanperry/Documents/dotfilesme/public/index.html",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/1",
-				"/Users/deanperry/Documents/dotfilesme/db/migrate/edasd.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/dotfilesme/app/models/user/configuration.rb",
-				"/Users/deanperry/Documents/mydotfiles/app/views/files/_user_info.html.haml",
-				"/Users/deanperry/Documents/mydotfiles/Capfile",
-				"/Users/deanperry/Documents/mydotfiles/Gemfile",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/home/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/models/portfolio_item.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/uploaders/portfolio_chrome_uploader.rb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/application.css",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/deanio.css.sass",
-				"/Users/deanperry/Documents/deanio/Gemfile",
-				"/Users/deanperry/Documents/deanio/config/initializers/airbrake.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/toast.css",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/_analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/layouts/analytics.html.erb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/tips/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/initializers/fog.rb",
-				"/Users/deanperry/Documents/deanio/app/views/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/config/routes.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/_post.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio_items/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/base/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/tips_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/blog/posts_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/tips/_tip.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/tip.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/_sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/message.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/base_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_items_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin/portfolio_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/contact/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/contact_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/environments/production.rb",
-				"/Users/deanperry/Documents/deanio/app/views/pages/contact.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/pages_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/deploy.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/portfolio/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/_form.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/index.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/admin/posts/edit.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/posts/show.html.haml",
-				"/Users/deanperry/Documents/deanio/app/models/admin_user.rb",
-				"/Users/deanperry/Documents/deanio/app/views/sessions/new.html.haml",
-				"/Users/deanperry/Documents/deanio/app/controllers/application_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/controllers/sessions_controller.rb",
-				"/Users/deanperry/Documents/deanio/app/assets/stylesheets/fontface.css.sass",
-				"/Users/deanperry/Documents/deanio/app/helpers/application_helper.rb",
-				"/Users/deanperry/Documents/deanio/app/models/post.rb",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.haml",
-				"/Users/deanperry/Documents/deanio/app/views/blog/sidebar.html.ham,l",
-				"/Users/deanperry/Documents/deanio/app/controllers/admin_controller.rb",
-				"/Users/deanperry/Documents/deanio/config/application.rb",
-				"/Users/deanperry/Documents/deanio/config/database.yml",
-				"/Users/deanperry/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/deanperry/Documents/deanio/config/initializers/voupe.rb",
-				"/Users/deanperry/Documents/qykin/app/views/layouts/application.html.haml",
-				"/Users/deanperry/Documents/qykin/Gemfile",
-				"/Users/deanperry/Documents/qykin/app/controllers/urls_controller.rb",
-				"/Users/deanperry/Documents/qykin/app/views/urls/index.html.haml",
-				"/Users/deanperry/Documents/qykin/app/controllers/home_controller.rb",
-				"/Users/deanperry/Documents/qykin/config/settings/development.yml",
-				"/Users/deanperry/Documents/brm-intranet/README.md",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/create.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/destroy.js.erb",
-				"/Users/deanperry/Documents/brm-intranet/app/controllers/items_controller.rb",
-				"/Users/deanperry/Documents/brm-intranet/app/views/items/_item.html.haml"
-			],
-			"find":
-			{
-				"height": 35.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"<open files>",
-					"<open folders>",
-					"/Users/deanperry/Documents/brm-intranet/app"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"spac",
-					"\"",
-					"payment-det",
-					"client",
-					"repair-other",
-					"WP_CONTENT_URL",
-					"cf.dean",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
-					"http://bb1.cdn.deanperry.co",
-					"http://bb.cdn.deanperry.co",
-					"timthumb",
-					"rimthumb",
-					"dtbaker_thumb",
-					"dtbaker",
-					"newa",
-					"confirm",
-					"DFDFDF",
-					":confirm => 'Are you sure?'",
-					"helpdesk",
-					"disclai",
-					"twitter",
-					"total",
-					".user",
-					"monthly_params_graph",
-					"monthly_params_graph_total_takings"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"'",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloonbaboon",
-					"http://balloonbaboon.cf.dean-perry.com/wp-content/themes/balloon-baboon",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory();?>",
-					"http://balloonbaboon.cf.dean-perry.com/<?php echo get_template_directory_uri();?>",
-					":data => { :confirm => 'Are you sure?' }",
-					"monthly_graph",
-					"monthly_graph_total_takings"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/deanperry/Downloads/Desktoply-Devices-Current.plist",
-							"settings":
-							{
-								"buffer_size": 762,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/Users/deanperry/Downloads/Desktoply-Devices-New.plist",
-							"settings":
-							{
-								"buffer_size": 863,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										835,
-										835
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"position": "540 88 1365 1330 0 0 2560 1418 ",
-			"replace":
-			{
-				"height": 0.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"sass",
-						"app/assets/stylesheets/deanio.css.sass"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 279.0,
-			"status_bar_visible": true,
-			"window_id": 165,
-			"workspace_name": ""
-		}
 	],
 	"workspaces":
 	{

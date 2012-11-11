@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1342629752,
+	"auto_upgrade_last_run": 1352240999,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -28,6 +28,7 @@
 		"SideBarEnhancements",
 		"Simple Rails Navigator",
 		"Terminal",
+		"TomDoc+",
 		"Twitter Bootstrap Snippets",
 		"Zurb Foundation Snippets"
 	]
