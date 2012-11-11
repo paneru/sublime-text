@@ -7,7 +7,8 @@ SETTINGS = [
     "alias",
     "default_initial",
     "use_cursor_text",
-    "show_files"
+    "show_files",
+    "show_path"
 ]
 DEBUG = False
 PLATFORM = sublime.platform()
@@ -24,7 +25,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         # Settings will be based on the view
         settings = get_settings(self.view)
         self.aliases = settings.get("alias")
-
+        self.show_path = settings.get("show_path")
         # Set some default values for the auto complete
         PathAutocomplete.set_show_files(settings.get("show_files"))
         PathAutocomplete.set_aliases(self.aliases)
@@ -54,8 +55,8 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
             root = os.path.expanduser("~")
 
         if DEBUG:
-            print "AdvancedNewFileDebug - root: " + root
-            print "AdvancedNewFileDebug - path: " + path
+            print "AdvancedNewFile[Debug]: root is " + root
+            print "AdvancedNewFile[Debug]: path is " + path
 
         return root, path
 
@@ -73,14 +74,21 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
                     break
             for alias in self.aliases.keys():
                 if alias == target:
-                    root = self.aliases.get(alias)
+                    alias_path = self.aliases.get(alias)
+                    if re.search(r"^\.{1,2}[/\\]", alias_path) != None:
+                        if self.view.file_name() != None:
+                            alias_root = os.path.dirname(self.view.file_name())
+                        else:
+                            alias_root = os.path.expanduser("~")
+                        root = os.path.join(alias_root, alias_path)
+                    else:
+                        root = os.path.expanduser(alias_path)
                     break
         if root == None:
             root = os.path.expanduser("~")
-            if DEBUG:
-                print "Warning: No alias found for '" + target + "'"
+            print "AdvancedNewFile[Warning]: No alias found for '" + target + "'"
 
-        return root
+        return os.path.abspath(root)
 
     def show_filename_input(self, initial=''):
         caption = 'Enter a path for a new file'
@@ -100,6 +108,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         # May be useful to see the popup for debugging
         # if DEBUG:
         #     view.settings().set("auto_complete", True)
+        #     view.settings().set("auto_complete_selector", "text")
 
         PathAutocomplete.set_root(self.root, True)
 
@@ -110,6 +119,10 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         else:
             PathAutocomplete.set_root(base, True)
 
+        if self.show_path:
+            self.view.set_status("AdvancedNewFile", "Creating file at %s " % \
+                os.path.abspath(os.path.join(base, path)))
+
         PathAutocomplete.set_path(path)
 
     def entered_filename(self, filename):
@@ -117,7 +130,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         file_path = os.path.join(base, path)
 
         if DEBUG:
-            print "AdvancedNewFileDebug - Creating file at: " + file_path
+            print "AdvancedNewFile[Debug]: Creating file at " + file_path
         if not os.path.exists(file_path):
             self.create(file_path)
         if not os.path.isdir(file_path):
@@ -126,6 +139,7 @@ class AdvancedNewFileCommand(sublime_plugin.WindowCommand):
         self.clear()
 
     def clear(self):
+        self.view.erase_status("AdvancedNewFile")
         PathAutocomplete.clear()
 
     def create(self, filename):
@@ -209,7 +223,7 @@ class PathAutocomplete(sublime_plugin.EventListener):
 
             if self.continue_previous_autocomplete():
                 if DEBUG:
-                    print "AdvancedNewFileDebug - (Prev) Suggestions"
+                    print "AdvancedNewFile[Debug]: (Prev) Suggestions"
                     print PathAutocomplete.prev_suggestions
 
                 return PathAutocomplete.prev_suggestions
@@ -245,7 +259,7 @@ class PathAutocomplete(sublime_plugin.EventListener):
                 PathAutocomplete.prev_suggestions = suggestions
                 PathAutocomplete.prev_root = root_path
                 if DEBUG:
-                    print "AdvancedNewFileDebug - Suggestions:"
+                    print "AdvancedNewFile[Debug]: Suggestions:"
                     print suggestions
 
         return suggestions
@@ -298,6 +312,6 @@ def get_settings(view):
             else:
                 local_settings[key] = project_settings[key]
         else:
-            print "AdvancedNewFile: Invalid key '" + key + "' in project settings."
+            print "AdvancedNewFile[Warning]: Invalid key '" + key + "' in project settings."
 
     return local_settings
